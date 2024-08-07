@@ -1,1 +1,1 @@
-# AAAI_2025_CATN_GO
+# AAAI_2025_Swap_Contraction
